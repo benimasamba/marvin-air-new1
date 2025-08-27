@@ -26,12 +26,12 @@ const About = () => {
             <img
               alt="Technician working on an AC unit"
               className="rounded-lg shadow-lg object-cover w-full h-full aspect-square"
-              src="assets/man-7043157_640.jpg"
+              src="/man-7043157_640.jpg"
             />
             <img
               alt="Clean air conditioner unit outdoors"
               className="rounded-lg shadow-lg object-cover w-full h-full aspect-square mt-0 sm:mt-8"
-              src="assets/worker-7043152_640.jpg"
+              src="/worker-7043152_640.jpg"
             />
           </div>
         </div>
